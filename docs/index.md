@@ -15,7 +15,7 @@ hide:
 <!-- Fallback raw link (update username/repo if different) -->
 <small>Raw view (if above fails when deployed): <a href="https://raw.githubusercontent.com/brandonparker/my-portfolio/main/Brandon-Ps-Resume3.pdf" target="_blank">Download via GitHub</a></small>
 
-> I build practical, user-centered software across cloud networking, fullâ€‘stack platforms, and intelligent interfacesâ€”leveraging AI/ML, human-computer interaction principles, and systems thinking to solve real-world problems.
+> I build practical, user-centered software across cloud networking, full‘stack platforms, and intelligent interfaces”leveraging AI/ML, human-computer interaction principles, and systems thinking to solve real-world problems.
 
 ---
 
@@ -32,8 +32,8 @@ hide:
 ---
 
 ## Education
-- **Georgia Institute of Technology** â€“ BS Computer Science (Artificial Intelligence & Human-Computer Interaction), GPA 3.85 (Aug 2022 â€“ Dec 2026)  
-- **Georgia Institute of Technology** â€“ MS Computer Science (Machine Learning) (Aug 2026 â€“ May 2027)
+- **Georgia Institute of Technology** “ BS Computer Science (Artificial Intelligence & Human-Computer Interaction), GPA 3.85 (Aug 2022 “ Dec 2026)  
+- **Georgia Institute of Technology** “ MS Computer Science (Machine Learning) (Aug 2026 “ May 2027)
 
 ---
 
@@ -46,20 +46,20 @@ hide:
 ---
 
 ## Experience
-### Cloud Network Engineering Intern â€“ UKG (Sep 2025 â€“ Present)
+### Cloud Network Engineering Intern “ UKG (Sep 2025 “ Present)
 Optimizing SaaS networking across hybrid environments; working with edge delivery, security layers (Cloud Armor), and traffic performance tooling.
 
-### Founder / Fullâ€‘Stack Developer â€“ Sensible (Aug 2023 â€“ Present)
-Built and iterated an awardâ€‘winning sustainability Chrome extension (150+ users). Designed UI in Figma + React + Materialâ€‘UI; engineered custom components when library gaps emerged.
+### Founder / Full‘Stack Developer “ Sensible (Aug 2023 “ Present)
+Built and iterated an award‘winning sustainability Chrome extension (150+ users). Designed UI in Figma + React + Material‘UI; engineered custom components when library gaps emerged.
 
-### Software Engineering Intern â€“ Verizon (Jun 2025 â€“ Aug 2025)
+### Software Engineering Intern “ Verizon (Jun 2025 “ Aug 2025)
 Deployed internal web app centralizing operational tools. Built automated Python/Pandas audit pipeline cutting daily timesheet approval time 60%+. Translated field technician workflows into actionable software improvements.
 
 ---
 
 ## Selected Projects
-### Rewind â€“ Spotify Wrapped Web App
-Fullâ€‘stack Django + React platform generating multi-frame summaries of listening behavior. Integrates Spotify Web API + OpenAI for AIâ€‘curated narrative summaries with persistence and deletion controls.
+### Rewind “ Spotify Wrapped Web App
+Full‘stack Django + React platform generating multi-frame summaries of listening behavior. Integrates Spotify Web API + OpenAI for AI‘curated narrative summaries with persistence and deletion controls.
 
 ### Google Glass Grocery Scanner
 Barcode scanning app using ZXing + Open Food Facts API on legacy Google Glass hardware. Resolved deprecated stack constraints; optimized scan + display loop for constrained UX.
@@ -67,8 +67,8 @@ Barcode scanning app using ZXing + Open Food Facts API on legacy Google Glass ha
 ### ASD Social Support Prototype
 Assistive application leveraging Python backend + React interface + Hugging Face API to mediate interaction patterns for youth with ASD; integrated Arduino component pipeline.
 
-### Foodie â€“ Atlanta Restaurant Discovery
-Frontâ€‘end development on team of five. Filterable interface (range, rating, cuisine) powered by Google Maps API + Django backend.
+### Foodie “ Atlanta Restaurant Discovery
+Front‘end development on team of five. Filterable interface (range, rating, cuisine) powered by Google Maps API + Django backend.
 
 ### Lightweight NLP Knowledge Agent
 Custom SpaCy-based pipeline parsing prompts to extract semantic relations; answers contextual questions at 85% accuracy (34/40 test set).
@@ -76,7 +76,7 @@ Custom SpaCy-based pipeline parsing prompts to extract semantic relations; answe
 ---
 
 ## Leadership & Involvement
-GT Mobile App Development â€¢ GT Web Dev â€¢ National Society of Black Engineers (NSBE) â€¢ African American Student Union â€¢ Minorities at College of Computing
+GT Mobile App Development ¢ GT Web Dev ¢ National Society of Black Engineers (NSBE) ¢ African American Student Union ¢ Minorities at College of Computing
 
 ---
 
