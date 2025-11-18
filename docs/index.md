@@ -108,7 +108,7 @@ Custom SpaCy-based pipeline parsing prompts to extract semantic relations; answe
 ---
 
 ## Leadership & Involvement
-GT Mobile App Development  GT Web Dev  National Society of Black Engineers (NSBE)  African American Student Union  Minorities at College of Computing
+GT Mobile App Development · GT Web Dev · National Society of Black Engineers (NSBE) · African American Student Union · Minorities at College of Computing
 
 ---
 
