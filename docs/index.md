@@ -7,7 +7,7 @@ hide:
 
 # Brandon L. Parker
 
-<span style="font-size:1.1rem;">Cloud & AI-Focused Software Engineer | BSCS '26 & Accelerated MSCS '27 (GPA 3.85)</span>
+<span style="font-size:1.1rem;">Cloud, AI, & Fullstack-Focused Software Engineer| BSCS '26 & Accelerated MSCS '27 (GPA 3.85)</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/brandon-parker-076973251/)
 [![Email](https://img.shields.io/badge/Email-Brandonlp3%40gmail.com-red?logo=gmail)](mailto:Brandonlp3@gmail.com)
@@ -67,16 +67,25 @@ Rapid prototyping, API integration, UI/UX iteration, cross-functional collaborat
 
 ## Experience
 ### Cloud Network Engineering Intern  UKG (Sep 2025 - Present)
-Optimizing SaaS networking across hybrid environments; working with edge delivery, security layers (Cloud Armor), and traffic performance tooling.
+Built and optimized SaaS networking solutions across hybrid cloud and on-premises environments, working with VPC architecture, CDN, load balancing, serverless functions, WAF/DDoS protection (Cloud Armor), and compute instances.
+
+Deployed infrastructure projects using Ansible and Terraform for automated provisioning and configuration management.
+
+Developed a RAG-based chatbot pipeline to centralize network documentation and resources, significantly reducing research time for the engineering team.
+
+Automated IPAM workflows by building a job that polls cloud environments and assigns IP addresses via Nautobot API, streamlining address management.
 
 ### Founder / FullStack Developer  Sensible (Aug 2023 - Present)
-Built and iterated an awardwinning sustainability Chrome extension (150+ users). Designed UI in Figma + React + MaterialUI; engineered custom components when library gaps emerged.
+Built and iterated upon an awardwinning sustainability Chrome extension (150+ users). 
+Designed UI in Figma, React + MaterialUI; engineered custom components when library gaps emerged.
 
 ### Software Engineering Intern  Verizon (Jun 2025 - Aug 2025)
-Deployed internal web app centralizing operational tools. Built automated Python/Pandas audit pipeline cutting daily timesheet approval time 60%+. Translated field technician workflows into actionable software improvements.
+Deployed internal web app centralizing resources for field technician tools increasing efficiency. 
+Built automated audit pipeline cutting daily timesheet approval time by over 60%. 
+Translated field technician workflows into actionable software improvements.
 
-### Data Analytics Intern  Verizon (Jun 2025 - Aug 2025)
-Deployed internal web app centralizing operational tools. Built automated Python/Pandas audit pipeline cutting daily timesheet approval time 60%+. Translated field technician workflows into actionable software improvements.
+### Data Analytics Intern  Verizon (Mar 2024 - Jun 2024)
+Classified, sorted, and automated generation of graphs for server error alerts resulting in the reduction of upper management problem diagnosis period.
 
 ---
 
